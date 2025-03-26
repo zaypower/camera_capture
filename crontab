@@ -1,0 +1,2 @@
+* * * * * /bin/bash /path/to/get_image.sh
+0 */4 * * * /bin/bash /path/to/update_video.sh
